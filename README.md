@@ -2,7 +2,6 @@
 
 🚀 Computer Science Student | Web Developer | System-level C++ Programmer | JavaFX Desktop Developer
 
-![Banner](https://i.imgur.com/qKkXHp7.png)
 
 ---
 
