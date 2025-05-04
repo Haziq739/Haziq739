@@ -16,7 +16,7 @@ I'm a passionate Computer Science student at **FAST-NUCES, Islamabad**, with han
 
 - 📱 **Phone:** +92 335 7452457  
 - 📧 **Email:** naeemhaziq345@gmail.com  
-- 🔗 **LinkedIn:** [LinkedIn Profile](#) <!-- Replace # with your actual LinkedIn URL -->
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/muhammad-haziq-naeem-b49684315/)
 - 💻 **GitHub:** [Haziq739](https://github.com/Haziq739)
 
 ---
