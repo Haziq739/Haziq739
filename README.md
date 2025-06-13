@@ -61,6 +61,7 @@ _2022 – 2026_
 ## 📜 Certifications
 
 - **IBM Certification:** Python 101 for Data Science (PY0101EN) — via cognitiveclass.ai
+- **IBM Certification:** Machine Learning with Python (ML0101EN) — via cognitiveclass.ai
 
 ---
 
