@@ -62,7 +62,8 @@ _2022 – 2026_
 
 - **IBM Certification:** Python 101 for Data Science (PY0101EN) — via cognitiveclass.ai
 - **IBM Certification:** Machine Learning with Python (ML0101EN) — via cognitiveclass.ai
-
+- **Coursera Certification(IBM):** Making Front-End Apps Using React (IBM - Coursera)
+- **Coursera Certification(Packt):** Building Autonomous AI Agents using LangGraph (IBM - Coursera)
 ---
 
 ## 💼 Experience
