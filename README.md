@@ -64,6 +64,7 @@ _2022 – 2026_
 - **IBM Certification:** Machine Learning with Python (ML0101EN) — via cognitiveclass.ai
 - **Coursera Certification(IBM):** Making Front-End Apps Using React (IBM - Coursera)
 - **Coursera Certification(Packt):** Building Autonomous AI Agents using LangGraph (IBM - Coursera)
+- **Coursera Certification (DeepLearning.AI):** Neural Networks and Deep Learning (Course 1 of Deep Learning Specialization)
 ---
 
 ## 💼 Experience
