@@ -65,6 +65,11 @@ _2022 – 2026_
 - **Coursera Certification(IBM):** Making Front-End Apps Using React (IBM - Coursera)
 - **Coursera Certification(Packt):** Building Autonomous AI Agents using LangGraph (IBM - Coursera)
 - **Coursera Certification (DeepLearning.AI):** Neural Networks and Deep Learning (Course 1 of Deep Learning Specialization)
+- **Coursera Certification (DeepLearning.AI):** Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of Deep Learning Specialization)
+- **Coursera Certification (DeepLearning.AI):** Convolutional Neural Networks (Course 3 of Deep Learning Specialization)
+- **Coursera Certification (DeepLearning.AI):** Structuring Machine Learning Projects (Course 4 of Deep Learning Specialization)
+- **Coursera Certification (Amazon Web Services):** AWS Cloud Technical Essentials
+- 
 ---
 
 ## 💼 Experience
