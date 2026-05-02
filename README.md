@@ -54,7 +54,7 @@ _2022 – 2026_
 - **Desktop Application Development:** JavaFX, .NET Framework (Windows Forms)
 - **Database Systems:** MySQL, SQL Server, MongoDB
 - **Game Development:** SFML, GLUT, OpenCV
-- **DevOps & Version Control:** Git, GitHub
+- **DevOps & Version Control:** Git, GitHub, CI/CD, Docker, Docker Compose, Kubernetes, DVC, MLFlow 
 
 ---
 
