@@ -73,11 +73,10 @@ _2022 – 2026_
 
 ## 💼 Experience
 
-### Lab Demonstrator – Computer Organization & Assembly Language  
-**FAST-NUCES, Islamabad** | _Aug 2024 – Jan 2025_
+### Full Stack Developer – Intership at Xgrid.co
+**Xgrid.co** | _June 2026 – Aug 2026_
 
-- Led lab sessions on **MIPS Assembly** and **Computer Architecture**.
-- Assisted **50+ students** with debugging, assessments, and understanding low-level operations.
+- As a **Full Stack Developer Intern** at Xgrid.co, I contributed to the development of modern, responsive web applications by working across both frontend and backend technologies.
 
 ---
 
