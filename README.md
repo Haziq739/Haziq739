@@ -68,7 +68,9 @@ _2022 – 2026_
 - **Coursera Certification (DeepLearning.AI):** Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization (Course 2 of Deep Learning Specialization)
 - **Coursera Certification (DeepLearning.AI):** Convolutional Neural Networks (Course 3 of Deep Learning Specialization)
 - **Coursera Certification (DeepLearning.AI):** Structuring Machine Learning Projects (Course 4 of Deep Learning Specialization)
-- **Coursera Certification (Amazon Web Services):** AWS Cloud Technical Essentials 
+- **Coursera Certification (Amazon Web Services):** AWS Cloud Technical Essentials
+- **Databricks Academy Certification:** Databricks Fundamentals
+- **Databricks Academy Certification:** Generative AI Fundamentals
 ---
 
 ## 💼 Experience
