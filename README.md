@@ -71,6 +71,7 @@ _2022 – 2026_
 - **Coursera Certification (Amazon Web Services):** AWS Cloud Technical Essentials
 - **Databricks Academy Certification:** Databricks Fundamentals
 - **Databricks Academy Certification:** Generative AI Fundamentals
+- **Databricks Academy Certification:** Agentic AI Fundamentals
 ---
 
 ## 💼 Experience
