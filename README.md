@@ -72,6 +72,7 @@ _2022 – 2026_
 - **Databricks Academy Certification:** Databricks Fundamentals
 - **Databricks Academy Certification:** Generative AI Fundamentals
 - **Databricks Academy Certification:** Agentic AI Fundamentals
+- **Databricks Academy Certification:** DevOps Essentials for Data Engineering
 ---
 
 ## 💼 Experience
